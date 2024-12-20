@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/PvBCFzY.jpeg" alt="banner" width="100%">
 
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Vincent GoatbotV2 - Chat Messenger Bot</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">  𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 ➪ 𓃵 𝙂𝙤𝙖𝙩𝙗𝙤𝙩𝙑2 </h1>
 
 <p align="center">
     <a href="https://nodejs.org/dist/v20.0.0">
