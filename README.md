@@ -1,12 +1,12 @@
-<img src="https://i.imgur.com/wRUV5Sp.jpeg" alt="banner" width="100%">
+<img src="https://i.imgur.com/PvBCFzY.jpeg" alt="banner" width="100%">
 
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Queen Bot V2 - Chat Messenger Bot</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Vincent GoatbotV2 - Chat Messenger Bot</h1>
 
 <p align="center">
     <a href="https://nodejs.org/dist/v20.0.0">
         <img src="https://img.shields.io/badge/Nodejs%20Support-20.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v20.x">
     </a>
-    <img alt="size" src="https://img.shields.io/github/repo-size/ItzPriyanshi/QueenBotV2.svg?style=flat-square&label=size">
+    <img alt="size" src="https://img.shields.io/github/repo-size/Vincent/GoatbotV2.svg?style=flat-square&label=size">
     <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ItzPriyanshi/QueenBotV2/raw/main/package.json&style=flat-square">
     <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ItzPriyanshi.QueenBotV2">
     <img alt="license" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
@@ -32,8 +32,14 @@
 
 ---
 
-## FCA Fixed By Priyansh Rajput 
-This version includes fixes by Priyansh Rajput to the FCA (Facebook Chat API) implementation.
+# 𝗔𝗡𝗚 𝙂𝙊𝘼𝙏𝘽𝙊𝙏 𓃵𝐕𝟐  𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗡𝗔 𝗜𝗧𝗢 𝗔𝗬 𝗡𝗜𝗟𝗜𝗞𝗛𝗔 𝗡𝗨𝗢𝗡𝗚 𝗡𝗢𝗕𝗘𝗠𝗕𝗘𝗥-𝟭𝟱-𝟮𝟬𝟮𝟰 𝗡𝗚 𝗧𝗔𝗟𝗘𝗡𝗧𝗔𝗗𝗢𝗡𝗚 𝗕𝗔𝗧𝗔𝗡𝗚 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥  𝗡𝗔. 𝟭𝟳- 𝗬𝗘𝗔𝗥𝗦 𝗢𝗟𝗗 𝗡𝗔 𝗦𝗜 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 𝗡𝗔 𝗡𝗔𝗚-𝗔𝗔𝗥𝗔𝗟 𝗦𝗔 𝗦𝗖𝗛𝗢𝗢𝗟 𝗡𝗚 𝗟𝗜𝗖𝗘𝗢 𝗗𝗘 𝗦𝗧𝗢 𝗧𝗢𝗠𝗔𝗦 𝗗𝗘 𝗔𝗤𝗨𝗜𝗡𝗔𝗦 𝗡𝗔 𝗠𝗔𝗧𝗔𝗧𝗔𝗚𝗣𝗨𝗔𝗡 𝗦𝗔 𝗕𝗜𝗡𝗔𝗡 𝗟𝗔𝗚𝗨𝗡𝗔 𝗣𝗛𝗜𝗟𝗜𝗣𝗣𝗜𝗡𝗘𝗦 '
+
+# 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
+𝐍𝐀𝐌𝐄 : 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡
+𝐎𝐍𝐋𝐈𝐍𝐄: 𝟮𝟰/𝟳 🟢
+𝐀𝐆𝐄: 𝟭𝟳- 𝗬𝗘𝗔𝗥'𝗦 𝗢𝗟𝗗 
+𝐒𝐓𝐀𝐓𝐔𝐒: 𝗦𝗜𝗡𝗚𝗟𝗘
+𝐓𝐀𝐋𝐄𝐍𝐓: 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥.
 
 ### Key Modifications
 - Updated files:
